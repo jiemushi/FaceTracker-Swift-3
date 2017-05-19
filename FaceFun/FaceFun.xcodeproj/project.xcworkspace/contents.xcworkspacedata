@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "self:/Users/jamesmervin/Downloads/CourseraFaceTracker1.2_Xcode7.3/FaceFun.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:FaceTracker.framework">
+   </FileRef>
+   <FileRef
+      location = "group:project.pbxproj">
+   </FileRef>
+   <FileRef
+      location = "group:xcuserdata">
+   </FileRef>
+   <FileRef
+      location = "group:AppDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:Cell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Info.plist">
+   </FileRef>
+   <FileRef
+      location = "group:ViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:FaceTracker.framework">
+   </FileRef>
+   <FileRef
+      location = "group:LaunchScreen.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:Main.storyboard">
+   </FileRef>
+</Workspace>
